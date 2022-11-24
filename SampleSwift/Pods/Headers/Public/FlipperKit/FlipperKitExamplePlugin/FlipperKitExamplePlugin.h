@@ -1,0 +1,1 @@
+../../../../../../Plugins/FlipperKitExamplePlugin/FlipperKitExamplePlugin/FlipperKitExamplePlugin.h

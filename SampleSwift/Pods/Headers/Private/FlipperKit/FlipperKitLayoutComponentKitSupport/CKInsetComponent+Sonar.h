@@ -1,0 +1,1 @@
+../../../../../../Plugins/FlipperKitLayoutPlugin/FlipperKitLayoutComponentKitSupport/CKInsetComponent+Sonar.h

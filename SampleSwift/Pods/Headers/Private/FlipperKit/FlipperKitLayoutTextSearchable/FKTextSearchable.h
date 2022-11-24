@@ -1,0 +1,1 @@
+../../../../../../Plugins/FlipperKitLayoutPlugin/FlipperKitLayoutTextSearchable/FKTextSearchable.h

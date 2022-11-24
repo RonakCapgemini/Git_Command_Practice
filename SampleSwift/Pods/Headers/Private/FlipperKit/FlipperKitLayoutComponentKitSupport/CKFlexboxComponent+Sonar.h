@@ -1,0 +1,1 @@
+../../../../../../Plugins/FlipperKitLayoutPlugin/FlipperKitLayoutComponentKitSupport/CKFlexboxComponent+Sonar.h
